@@ -10,8 +10,8 @@ echo "STUDENT RESULT<br>";
 echo "==================================================<br><br>";
 
 
-echo "Roll No: 7121<br>";
-echo "Name: Dishank Parsana<br>";
+echo "Roll No: 7016<br>";
+echo "Name: shubham adesara <br>";
 echo "Semester: 2nd Semester<br>";
 echo "--------------------------------------------------<br><br>";
 
